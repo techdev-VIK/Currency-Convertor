@@ -1,6 +1,6 @@
 Steps:
 Pick the currency you have.
-Then Pick the currency you want to convert to from the deop down.
+Then Pick the currency you want to convert to from the drop down.
 Click on "Convert" and ge the final result.
 
 ![image](https://github.com/techdev-VIK/Currency-Convertor/assets/139503457/3d9c9b45-aef3-433c-b093-79eb584e9dfe)
